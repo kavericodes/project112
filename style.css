@@ -1,0 +1,41 @@
+body{
+    color: black;
+    background-color: rgb(195, 232, 255);
+}
+
+span{
+    font-size: 31px;
+}
+
+.hand{
+    font-size: 40px;
+}
+
+.header{
+    font-size: 25px;
+    letter-spacing: 6px;
+    border-radius: 8px;
+}
+
+label{
+font-family: 'Nunito', sans-serif;
+font-size: 20.5px;
+color: darkslateblue;
+background-color: rgb(225, 194, 255);
+border: darkviolet 2px solid;
+padding: 10px;
+border-radius: 8px;
+}
+
+#camera,#result{
+    margin-top: 10;
+    border: 4px dotted black;
+    width: 350px;
+    height: 300px;
+}
+
+.button{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
